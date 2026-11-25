@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KönyvTáram</string>
+    <string name="slogan">Saját könyvgyűjteményem • olvasási napló</string>
+    <string name="student_info">Nagy Kristóf Csongor • ZGEKAJ</string>
+    <string name="summary_initial">0 könyv • 0 elolvasva</string>
+    <string name="summary_format">%1$d könyv • %2$d elolvasva</string>
+    <string name="empty_state">Még nincs könyved. Adj hozzá egyet a + gombbal!</string>
+    <string name="add_book">Új könyv hozzáadása</string>
+    <string name="edit_book">Könyv szerkesztése</string>
+    <string name="delete_book">Könyv törlése</string>
+    <string name="delete_question">Biztosan törlöd ezt a könyvet: %1$s?</string>
+    <string name="delete">Törlés</string>
+    <string name="save">Mentés</string>
+    <string name="cancel">Mégse</string>
+    <string name="book_title">Könyv címe</string>
+    <string name="book_author">Szerző</string>
+    <string name="book_year">Megjelenés éve</string>
+    <string name="book_genre">Műfaj</string>
+    <string name="mark_read">Elolvastam</string>
+    <string name="required_field">Kötelező mező</string>
+    <string name="invalid_year">Adj meg egy érvényes évet (1–2100)!</string>
+    <string-array name="genres">
+        <item>Regény</item>
+        <item>Fantasy</item>
+        <item>Krimi</item>
+        <item>Sci-fi</item>
+        <item>Ismeretterjesztő</item>
+        <item>Életrajz</item>
+        <item>Egyéb</item>
+    </string-array>
+</resources>
